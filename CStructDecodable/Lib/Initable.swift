@@ -8,7 +8,7 @@
 
 import Foundation
 
-protocol Initable: CStructDecodable {
+public protocol Initable: CStructDecodable {
     init()
 }
 
