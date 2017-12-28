@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A83B4E271FF3A1BD00F7CACD /* CStructDecodable.h in Headers */ = {isa = PBXBuildFile; fileRef = A83B4E251FF3A1BD00F7CACD /* CStructDecodable.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A83B4E2D1FF3A1CF00F7CACD /* CStructDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83B4E2C1FF3A1CF00F7CACD /* CStructDecodable.swift */; };
 		A83B4E2F1FF3A24200F7CACD /* CStructDecodeError.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83B4E2E1FF3A24200F7CACD /* CStructDecodeError.swift */; };
 		A83B4E311FF3A25800F7CACD /* Initable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83B4E301FF3A25800F7CACD /* Initable.swift */; };
@@ -101,7 +100,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A83B4E271FF3A1BD00F7CACD /* CStructDecodable.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
