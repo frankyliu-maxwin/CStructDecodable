@@ -6,7 +6,8 @@
 //  Copyright © 2017年 Yume. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+//#import <UIKit/UIKit.h>
+#import <Cocoa/Cocoa.h>
 
 //! Project version number for CStructDecodable.
 FOUNDATION_EXPORT double CStructDecodableVersionNumber;
