@@ -9,13 +9,13 @@
 import Foundation
 
 extension UInt8: Initable {
-    init() {
+    public init() {
         self = 0
     }
 }
 
 extension UInt16: Initable {
-    init() {
+    public init() {
         self = 0
     }
     
@@ -29,7 +29,7 @@ extension UInt16: Initable {
 }
 
 extension UInt32: Initable {
-    init() {
+    public init() {
         self = 0
     }
     
@@ -43,7 +43,7 @@ extension UInt32: Initable {
 }
 
 extension UInt64: Initable {
-    init() {
+    public init() {
         self = 0
     }
     
