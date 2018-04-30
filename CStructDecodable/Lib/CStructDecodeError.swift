@@ -8,8 +8,6 @@
 
 import Foundation
 
-import Foundation
-
 public enum CStructDecodeError<T>: Error {
     case parseFail(data: Data,type: T.Type, offset: Int)
 }
